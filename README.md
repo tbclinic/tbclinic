@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Github/Github.png" height="200" />
+<img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Github/Github.png" height="300" />
 
 ## Adout Me
 
